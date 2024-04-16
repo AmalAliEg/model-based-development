@@ -1,0 +1,19 @@
+try
+    if grade >=90
+        disp('A');
+    elseif grade >=80 && grade <90
+        disp('B');
+    elseif grade >=70 && grade <80
+        disp('C');
+    elseif grade>=60 && grade<70
+        disp('D');
+    elseif grade <60 && grade>=50
+        disp('F+');
+    
+    end
+    disp("see u in summer course");
+
+
+catch
+    disp("what the hell you did !!! ");
+end
