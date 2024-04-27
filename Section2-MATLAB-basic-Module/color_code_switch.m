@@ -1,14 +1,18 @@
-Mode=input("choose the one of the choices:\ncar\ntrain\nbus\nairplane\n\n\n",'s');
+Mode=input("choose the one of the color code :\n0000\n1111\n2222\n3333\n4444\n5555\n\n");
 
 switch Mode
-    case 'car'
-        fprintf("the cost is 70 EGP\n");
-    case 'train'
-        fprintf("the cost is 100 EGP\n");
-    case 'bus'
-        fprintf("the cost is 10 EGP\n");
-    case 'airplane'
-        fprintf("the cost is 1000 EGP\n");   
+    case 0000
+        fprintf("the color corrospond to the code is Red\n");
+    case 1111
+        fprintf("the color corrospond to the code is Yellow\n");
+    case 2222
+        fprintf("the color corrospond to the code is Blue\n");
+    case 3333
+        fprintf("the color corrospond to the code is Orange\n");
+    case 4444
+        fprintf("the color corrospond to the code is Black\n");  
+    case 5555
+        fprintf("the color corrospond to the code is Purple\n");        
     otherwise
         fprintf("you didn't make your choice");
 
