@@ -1,0 +1,53 @@
+%%count loop from 1 to 10 and step by 2 
+% for count= 1:2:10
+%     fprintf("%d \t",count);
+% 
+% 
+% end
+% fprintf("\n");
+%%-------------------------------------------------------------------------
+
+%%display the array elements one by one 
+% arr=[10,50,78,94,3,7];
+% 
+% for index=arr
+%     disp(index);
+% 
+% 
+% end
+%%-------------------------------------------------------------------------
+
+%%nested loop for multiplication
+
+% for i=1:5
+%     for j=1:5
+%         fprintf("the multiplication of %d and %d is %d\n",i,j,i*j);
+% 
+%     end
+%     fprintf('\n');
+% end
+%%-------------------------------------------------------------------------
+
+%%try while loop practice 
+% user_input=0;
+% while user_input~=42
+%     user_input=input('enter a number yalla!\n');
+% 
+% end
+% disp('heeeh! congrats!!--you entered 42');
+%%-------------------------------------------------------------------------
+
+%%try and catch example
+x=input('enter a number:  ');
+try 
+    if x<0
+        error('x must ne non-negative value');
+    else 
+        disp('fine there no error');
+
+    end
+catch 
+    disp(['there error: ' ...
+        '>>check the input value']);
+    
+end

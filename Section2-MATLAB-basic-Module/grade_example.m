@@ -8,12 +8,12 @@ try
     elseif grade>=60 && grade<70
         disp('D');
     elseif grade <60 && grade>=50
-        disp('F+');
-    
+        disp('D+');
+        disp("you can renroll if you wish");
+    else 
+        error('??!');
     end
-    disp("see u in summer course");
-
 
 catch
-    disp("what the hell you did !!! ");
+    fprintf("you didn't pass \nsee u in summer course\n");
 end
