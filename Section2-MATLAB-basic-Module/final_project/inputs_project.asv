@@ -25,7 +25,7 @@ ylim([-(link1)*2,(link1)*2]);                                               %add
 hold on
 grid on
 
-plot(x2,y2);                                                                %plot the final curve path 
+plot(x2,y2);                                                                %plot the 
 %to plot the different angles 
 for i=1:length(theta2)
     delete(p1);
