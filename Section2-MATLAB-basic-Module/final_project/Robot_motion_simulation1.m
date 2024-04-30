@@ -128,18 +128,7 @@ end %end the while
             app.TriggerSwitch.Position = [61 389 45 20];
             app.TriggerSwitch.Value = 'On';
 
-            % Create PauseSliderLabel
-            app.PauseSliderLabel = uilabel(app.UIFigure);
-            app.PauseSliderLabel.HorizontalAlignment = 'right';
-            app.PauseSliderLabel.Position = [31 38 39 22];
-            app.PauseSliderLabel.Text = 'Pause';
-
-            % Create PauseSlider
-            app.PauseSlider = uislider(app.UIFigure);
-            app.PauseSlider.Limits = [0 1];
-            app.PauseSlider.MajorTicks = [0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1];
-            app.PauseSlider.Position = [91 47 286 3];
-
+            
             % Show the figure after all components are created
             app.UIFigure.Visible = 'on';
         end
