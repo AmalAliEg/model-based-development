@@ -1,5 +1,5 @@
 %initial parameters
-g=9.81; %acc. due to gravity
+
 %initail comdition for theta_0 and omega_0
 initial_conditions=[pi/4;0];
 %time span start from 0 end after 10 sec. it is a Vector
