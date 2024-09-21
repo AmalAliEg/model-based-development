@@ -1,0 +1,10 @@
+A=-5:1:5;          %start ,step,end
+%disp(A);
+
+for i=0:(-5-5)
+    if A(i)0
+        A(i)=1;
+    else 
+        A(i)=1;
+    end 
+end 
