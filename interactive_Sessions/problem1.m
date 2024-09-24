@@ -12,7 +12,6 @@ B1=repmat(A2,13,1);      %repeated 13 times as row and 1 time as column
 %disp(B1)
 
 %third way
-
 A3=linspace(1,13,13);       %start is 1,,end is 13 and seprated by 13 number
 B2=repmat(A2,13,1);      %repeated 13 times as row and 1 time as column
 %disp(B2)

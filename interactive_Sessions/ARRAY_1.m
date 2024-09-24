@@ -1,9 +1,7 @@
 function  ARRAY_1()
-%UNTITLED11 Summary of this function goes here
-%   Detailed explanation goes here
 clear;         % Clear all variables from the Workspace
 clc;
-disp(datetime);
+%disp(datetime);
 
 %create A's matrix
 A1=1:10;
@@ -26,16 +24,13 @@ disp(A1new1);
 disp(A1new2);
 disp(A3new3);
 %}
-%apply operation for B's matrix
 
+%apply operation for B's matrix
 B1new1=mean(B3);
 B2new3=sum(B2);
 B2new2=B1'*B3;
 
-
-
 %display results for B's Matrix
-
 %{
 disp(B1new1);
 disp(B2new3);
@@ -48,8 +43,6 @@ g=A1(1,1:6);
 A1B2=vertcat(g,B2);
 A2B3=[repmat(A2,5,1);repmat(B3,1,1)];
 
-%disp(A1B2);
-
+disp(A1B2);
 disp(A2B3);
-
 end
