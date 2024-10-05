@@ -1,6 +1,5 @@
 function  ARRAY_1()
-clear;         % Clear all variables from the Workspace
-clc;
+clc;clearvas;         % Clear all variables from the Workspace
 %disp(datetime);
 
 %create A's matrix

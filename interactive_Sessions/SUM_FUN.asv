@@ -1,0 +1,24 @@
+function [S,Itertion_stop] = SUM_FUN(l)
+%This function computes the sum of the series 10 + 35 + 65 + ... 
+%according to the user input length
+%inputs
+k=0:l;                 %raw vector length as user defined 
+S=0;                    %initialaize the sum with 0
+Itertion_stop=-1;       %threshold
+
+for i=1:length(k)+1
+S=S+10*(2.5^(i);         %the operation of summing
+%condition of the stop action
+if (S>2.5e18)
+    Itertion_stop=i;
+    fprintf("the sum exceed the limit of %.4f , the total sum is %.5f at the iteration no. %d" ,2.5e18, S, Itertion_stop);
+    break; 
+else
+    fprintf("the sum dosen't exceed the limit of %.4f" ,2.5e18);
+
+end 
+return;
+
+ 
+end
+end 
