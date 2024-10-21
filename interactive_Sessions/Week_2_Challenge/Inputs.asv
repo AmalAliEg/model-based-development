@@ -1,0 +1,16 @@
+%{
+    % Inputs
+     the power vector for different power levels
+     Create a time vector:
+
+%}
+time = 0:1:60;       % (representing minutes from 0 to 30 with 1-minute intervals).
+power=0:10:600;     %(representing power inputs in watts)
+
+%{
+constants for the water tank system.
+%}
+
+efficiency;
+mass;
+specific_heat

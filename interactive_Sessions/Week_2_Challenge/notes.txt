@@ -1,0 +1,7 @@
+explain the equation 
+Anonymous Functions & Data Types
+● Create an anonymous function to simulate the heating effect based on time and
+power input.
+● Ensure that the function considers power as an input and returns the temperature
+change. The function should work for both scalar and vector inputs (utilize MATLAB
+data types effectively).

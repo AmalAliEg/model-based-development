@@ -20,8 +20,8 @@ y2=y1+link2*sind(theta1+theta2);
 p1=plot([0,x1(1)],[0,y1(1)],'g',LineWidth=2);
 p2=plot([x1(1),x2(1)],[y1(1),y2(1)],'b',LineWidth=3);
 
-xlim([-link1*2,link1*2]);                                                   %add limits for the frame on x-axis
-ylim([-(link1)*2,(link1)*2]);                                               %add limits for the frame on y-axis
+xlim([-(link1+link2)*1.5,(link1+link2)*1.5]);                                                   %add limits for the frame on x-axis
+ylim([-(link1+link2)*1.5,(link1+link2)*1.5]);                                               %add limits for the frame on y-axis
 hold on
 grid on
 
@@ -34,5 +34,6 @@ for i=1:length(theta2)
     p1=plot([0,x1(i)],[0,y1(i)],'g',LineWidth=2);
     p2=plot([x1(i),x2(i)],[y1(i),y2(i)],'b',LineWidth=3);
     drawnow                                                                 %to draw the animation at same time of the loop
-    %pause(0.5)                                                             %%to control the speed make it quite lower 
+    %pause(0.005)                                                             %%to control the speed make it quite lower 
 end 
+
