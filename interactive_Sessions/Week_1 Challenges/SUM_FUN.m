@@ -8,6 +8,7 @@ S=0;                    %initialaize the sum with 0
 Itertion_stop=-1;       %threshold by the user 
 th=threshold;
 error_val=0;
+kk
     for i=1:length(k)
     S=S+10*(2.5^(i-1));         %the operation of summing
     %condition of the stop action

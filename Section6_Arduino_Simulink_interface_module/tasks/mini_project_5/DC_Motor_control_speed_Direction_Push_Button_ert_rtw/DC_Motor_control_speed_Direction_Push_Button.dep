@@ -1,0 +1,59 @@
+DC_Motor_control_speed_Direction_Push_Button.o: \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/DC_Motor_control_speed_Direction_Push_Button.c \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/DC_Motor_control_speed_Direction_Push_Button.h \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_AnalogIn.h \
+ C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_arduino_digitalio.h \
+ C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_PWM.h \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/DC_Motor_control_speed_Direction_Push_Button_types.h \
+ C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rt_nonfinite.h \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/DC_Motor_control_speed_Direction_Push_Button_private.h
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/DC_Motor_control_speed_Direction_Push_Button.h:
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h:
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_AnalogIn.h:
+
+C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_arduino_digitalio.h:
+
+C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_PWM.h:
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/DC_Motor_control_speed_Direction_Push_Button_types.h:
+
+C:/PROGRA~1/MATLAB/R2024a/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rt_nonfinite.h:
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~2/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2024a/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h:
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/DC_Motor_control_speed_Direction_Push_Button_private.h:

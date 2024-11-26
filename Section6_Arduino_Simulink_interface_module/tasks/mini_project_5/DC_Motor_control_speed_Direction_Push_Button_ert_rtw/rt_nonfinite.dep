@@ -1,0 +1,14 @@
+rt_nonfinite.o: \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rt_nonfinite.c \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtGetNaN.h \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rt_nonfinite.h \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtwtypes.h \
+ C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtGetInf.h
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtGetNaN.h:
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rt_nonfinite.h:
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtwtypes.h:
+
+C:/Users/DELL/Desktop/model-based-design/Section6_Arduino_Simulink_interface_module/tasks/mini_project_5/DC_Motor_control_speed_Direction_Push_Button_ert_rtw/rtGetInf.h:
