@@ -1,0 +1,12 @@
+clc
+clear
+
+K = 1; 
+T = 10e3; 
+
+num = [0 K]; 
+den = [T 1]; 
+G = tf(num,den);
+step(G); 
+
+ 

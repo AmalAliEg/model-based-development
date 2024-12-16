@@ -1,0 +1,29 @@
+%define 
+clear all; clc;
+%k=2;
+num=[1 7 12];
+demo=[1 8 17 10 0];
+%sys=tf(num,demo);
+j=[1 6 8];
+
+sys=tf(j,1);
+
+s=tf('s');
+
+sys_der=(sys*(1/s));
+sys_der
+%step(sys);
+% sys_K=feedback(k*sys,1);
+% step(sys_K);
+% pole(sys)
+% pole(sys_K)
+% figure
+
+%rlocus(sys);
+% figure
+% step(sys_K);
+% 
+% sys_K2=feedback(2*sys,1);
+% pole(sys_K2)
+% figure
+% step(sys_K2);

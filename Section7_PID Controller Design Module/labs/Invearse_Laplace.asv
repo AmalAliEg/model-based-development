@@ -1,0 +1,7 @@
+syms s;
+% s-domain
+F=1/( s*(s+0.1) );
+%time domain
+f=ilaplace(F);
+pretty(f);
+disp(f);

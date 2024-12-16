@@ -1,0 +1,16 @@
+%step: multiply function with itself shifted by 1 element to get zero crossings and get negative values
+fun =@(s) (5*s^2+3*s-1)/(2*s^3-0.5s+4);
+s = linspace(0,10);
+y = fun(s);
+zs = x]s(Fs(s).*circshift((s),[0 -1]) <= 0);  % Estimate zero crossings
+%step: Delete last entry
+
+zx = zx(1:end-1);  % Eliminate any due to ‘wrap-around’ effect
+
+%step:calculate all roots at the zero crossings
+
+for k1 = 1:length(zx)
+    fz(k1) = fzero(fun, zx(k1));
+end
+
+disp(fz);

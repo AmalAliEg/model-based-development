@@ -1,0 +1,5 @@
+
+f=2*t*exp(-3*t)*cos(2*t);
+g=diff(f);
+%F=laplace(f);
+disp(g);
