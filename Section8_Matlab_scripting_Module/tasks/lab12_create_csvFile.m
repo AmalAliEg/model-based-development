@@ -1,0 +1,22 @@
+%crete Csv file
+
+A=[1:6;7:12;14:19];
+%function to create the file 
+    %csvwrite('W_A_matrix.csv',A);
+%function to create the file with row offset and column offset 
+    %csvwrite('W_A_matrix.csv',A,3,12);
+
+%function to read the csv file 
+%csvread("W_A_matrix.csv",2,4);
+
+%function to create the dat file 
+    %csvwrite('W_A_matrix.dat',A);
+%function to read the dat file 
+
+    %csvread('W_A_matrix.dat',1,2,[1 2 2 5])     %counting start from 0 in this case 
+
+%delimter function to write the txt file 
+    %dlmwrite('W_A_matrix.txt',A,'delimiter','\t','roffset',2,'coffset',3);
+%delimter function to read the txt file 
+M=dlmread('W_A_matrix.txt',' ',[1 0 2 5]);
+M

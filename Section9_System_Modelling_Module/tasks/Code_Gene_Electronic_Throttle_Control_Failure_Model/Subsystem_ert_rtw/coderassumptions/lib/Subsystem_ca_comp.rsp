@@ -1,0 +1,9 @@
+﻿-IC:\Users\DELL\Desktop\model-based-design\Section9_System_Modelling_Module\tasks\Code_Gene_Electronic_Throttle_Control_Failure_Model
+-I"C:\Program Files\MATLAB\R2024a\toolbox\rtw\targets\pil\c"
+-IC:\Users\DELL\Desktop\model-based-design\Section9_System_Modelling_Module\tasks\Code_Gene_Electronic_Throttle_Control_Failure_Model\Subsystem_ert_rtw\coderassumptions
+-IC:\Users\DELL\Desktop\model-based-design\Section9_System_Modelling_Module\tasks\Code_Gene_Electronic_Throttle_Control_Failure_Model\Subsystem_ert_rtw
+-I"C:\Program Files\MATLAB\R2024a\extern\include"
+-I"C:\Program Files\MATLAB\R2024a\simulink\include"
+-I"C:\Program Files\MATLAB\R2024a\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2024a\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2024a\rtw\c\ert"
