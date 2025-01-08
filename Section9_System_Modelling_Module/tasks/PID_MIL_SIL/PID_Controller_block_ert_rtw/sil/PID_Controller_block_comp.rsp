@@ -1,0 +1,14 @@
+﻿-IC:\Users\DELL\Desktop\model-based-design\Section9_System_Modelling_Module\tasks\PID_MIL_SIL
+-IC:\Users\DELL\Desktop\model-based-design\Section9_System_Modelling_Module\tasks\PID_MIL_SIL\PID_Controller_block_ert_rtw
+-I"C:\Program Files\MATLAB\R2024a\extern\include"
+-I"C:\Program Files\MATLAB\R2024a\simulink\include"
+-I"C:\Program Files\MATLAB\R2024a\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2024a\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2024a\rtw\c\ert"
+-IC:\Users\DELL\Desktop\model-based-design\Section9_System_Modelling_Module\tasks\PID_MIL_SIL\PID_Controller_block_ert_rtw\sil
+-IC:\Users\DELL\Desktop\model-based-design\Section9_System_Modelling_Module\tasks\PID_MIL_SIL\PID_Controller_block_ert_rtw\coderassumptions
+-I"C:\Program Files\MATLAB\R2024a\toolbox\rtw\targets\pil\c"
+-I"C:\Program Files\MATLAB\R2024a\extern\include\coder\connectivity\XILTgtAppSvc"
+-I"C:\Program Files\MATLAB\R2024a\toolbox\coder\rtiostream\src\utils"
+-I"C:\Program Files\MATLAB\R2024a\toolbox\coder\rtiostream\src"
+-I"C:\Program Files\MATLAB\R2024a\extern\include\coder\connectivity\CoderAssumpTgtAppSvc"
